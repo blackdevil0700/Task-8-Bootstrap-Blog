@@ -66,9 +66,9 @@ Simply open `index.html` in your preferred browser.
 
 If you’d like to contribute or have suggestions:
 
-- Author: **Your Name**  
-- Email: [youremail@example.com](mailto:youremail@example.com)  
-- GitHub: [@your-username](https://github.com/your-username)  
+- Author: **Harshal Jadhav**  
+-
+- GitHub: [@blackdevil0700](https://github.com/blackdevil0700)  
 
 ---
 
