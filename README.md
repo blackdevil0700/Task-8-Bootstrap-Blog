@@ -17,15 +17,6 @@ It showcases a professional blog layout with a **hero section, article cards, pa
 
 ---
 
-## 🖼️ Preview
-
-### Desktop View  
-![Desktop Preview](https://via.placeholder.com/1000x600.png?text=TechBlog+Desktop+Preview)
-
-### Mobile View  
-![Mobile Preview](https://via.placeholder.com/400x700.png?text=TechBlog+Mobile+Preview)
-
----
 
 ## 🛠️ Tech Stack
 
